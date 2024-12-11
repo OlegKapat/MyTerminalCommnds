@@ -1,0 +1,2 @@
+# MyTerminalCommnds
+All usefull commands
